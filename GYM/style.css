@@ -1,0 +1,29 @@
+
+
+.headerdiv
+{
+	color: yellow;
+	background-color: black;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+
+}
+
+.search{
+
+	marker-start: 70px;
+}
+
+
+.table
+{
+	font-size: 26px;
+
+}
+
+
+
+
+
+/*use html forms and iframe tags in order to open a page on the same engine*/
